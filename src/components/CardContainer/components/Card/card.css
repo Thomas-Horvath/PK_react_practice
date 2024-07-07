@@ -1,0 +1,12 @@
+.card {
+    border: 2px solid black;
+    width: 300px;
+    padding: .5rem;
+    background: #eee;
+    text-align: center;
+  }
+  .tags {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+  }

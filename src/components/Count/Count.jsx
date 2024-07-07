@@ -8,7 +8,7 @@ function Count() {
     const handleClick = () => {
         setNumber((previousState) => {
             // itt mindig csak ez előző érték érhető el!!! 
-            console.log(previousState, number)
+            // console.log(previousState, number)
             return previousState + 1
         });
 
