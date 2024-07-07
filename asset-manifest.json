@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PK_react_practice/static/css/main.7e43adba.css",
+    "main.js": "/PK_react_practice/static/js/main.08fddbdf.js",
+    "index.html": "/PK_react_practice/index.html",
+    "main.7e43adba.css.map": "/PK_react_practice/static/css/main.7e43adba.css.map",
+    "main.08fddbdf.js.map": "/PK_react_practice/static/js/main.08fddbdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e43adba.css",
+    "static/js/main.08fddbdf.js"
+  ]
+}
